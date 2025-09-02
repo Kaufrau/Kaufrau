@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello, I'm Tünde! 
+
+- 🔎 **Focus:** Machine Learning for network attack TTP detection — lateral movement & cross-dataset generalization (e.g. LMD-2023 → DARPA OpTC).  
+- 📂 **Current project:** [lmd-optc-benchmark](https://github.com/Kaufrau/lmd-optc-benchmark) – reproducible baseline study on cross-dataset lateral movement detection.  
+- 📦 **What I ship:** Reproducible research packs — clean ETL pipelines, calibrated metrics (PR-AUC, Recall@low-FPR), and leakage-safe dataset splits.  
+<!-- - 🛠 **Toolchain:** Python, scikit-learn, Pandas, Docker, GitHub Actions CI, ELK stack (Sysmon/Windows logs).-->  
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/tunde-kaufman/) | [Email](mailto:kaufmantunde@gmail.com)  
+
+---
+> Building robust detectors that stand up across datasets.
+
 
 <!--
 **Kaufrau/Kaufrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
